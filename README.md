@@ -7,4 +7,4 @@ Althoug the idea was mine it's not fair to say that all the work was mine, the p
 
 So? What's the project about? The ideia behind the project was to code a software for a fictional company from Santa Helena, in the state of Paraná from Brazil, that sells bus tickets for bus travels. The main problem in that company was that they still used old ways to register and retrieve clients data, using typewriters and piles of paper. The big pile of papers not only ocuppied a large space in the company but made the consulting a slow process. To solve these problems my group and i made a software that allow the workers of that company to register clients in txt files, sell tickets to registered clients and fetch any registered information about the clients. All this done efficiently and swiftly.
 
-If you wish to run the code you must run the executable file inside the output folder.
+If you wish to run the code you should run the executable file inside the output folder.
